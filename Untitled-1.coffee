@@ -1,0 +1,1 @@
+JSsample.jsconsole.log"Hello, world!"
